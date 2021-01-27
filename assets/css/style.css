@@ -292,8 +292,9 @@ footer{
 }
 
     .banner--images img{
-     width:128px;
-      height:128px;
+     width:80px;
+      height:80px;
+    margin-right:10px;
     }
 }
 
